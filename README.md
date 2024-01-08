@@ -2,7 +2,11 @@
 
 I am a full stack MERN developer. I graduated Triple Ten's Software Engineering boot camp in December of 2023! Throughout my time there I helped students in the earlier Sprints to persevere throughout challenges and still act like a tutor for some students and any students needing help understanding the material. The curriculum taught me many things but in regards to the languages I learned thoroughly: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Google Cloud.
 
+With a robust skill set covering both front-end and back-end technologies, I am poised to deliver high-impact solutions as a Full Stack Software Engineer. My hands-on experience in creating responsive and user-friendly interfaces, combined with a strategic mindset for optimizing server-side functionalities, empowers me to drive efficiency and innovation. I am eager to bring my adaptability and dedication to problem-solving to contribute meaningfully to your team and help elevate your projects to new heights.
+
+
 - 🔭 I’m currently working on a website for my uncle for him to be able to take pictures and sell certain car products!
+- 🌱 I wish to partake in outsourcing projects
 - 🌱 I am currently 20 years old (2023) and want a job where I can support a family!
 - 🤔 I’m looking for a job as a full-stack engineer, where I can contribute as much as I can and learn more and more throughout the years.
 - 💬 Ask me about soccer, my family, 
