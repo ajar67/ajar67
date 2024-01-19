@@ -4,13 +4,12 @@ I am a full stack MERN developer. I graduated Triple Ten's Software Engineering 
 
 With a robust skill set covering both front-end and back-end technologies, I am poised to deliver high-impact solutions as a Full Stack Software Engineer. My hands-on experience in creating responsive and user-friendly interfaces, combined with a strategic mindset for optimizing server-side functionalities, empowers me to drive efficiency and innovation. I am eager to bring my adaptability and dedication to problem-solving to contribute meaningfully to your team and help elevate your projects to new heights.
 
-
-- 🔭 I’m currently working on a website for my uncle for him to be able to take pictures and sell certain car products!
+- 🌱 I am currently 20 years old (2023) and want a job!
+- 🔭 I’m currently creating a website for family auto parts business.
 - 🌱 I wish to partake in outsourcing projects
-- 🌱 I am currently 20 years old (2023) and want a job where I can support a family!
 - 🤔 I’m looking for a job as a full-stack engineer, where I can contribute as much as I can and learn more and more throughout the years.
 - 💬 Ask me about soccer, my family, 
 - 📫 How to reach me: anthonyjaranieri@gmail.com | 4752063784 | ajar9703(linkedIn)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have played soccer since I was 3 years old and am in love with the sport.
-- ⚡ Fun fact: I am one of twelve. I am the oldest boy and second oldest child and we all play soccer except my older sister!
+- ⚡ Fun fact: I have played soccer since I was 3 years old, made licensed Head Coach at 19 years old, and USSF Certified Referee at 15 years old!
+- ⚡ Fun fact: I am 1 of 12. I was home-schooled until senior year of high school where I graduated with Distinguished Honors and was inducted into the National Society of High School Scholars.
