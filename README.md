@@ -4,6 +4,9 @@ I am a full stack MERN developer. I graduated Triple Ten's Software Engineering 
 
 With a robust skill set covering both front-end and back-end technologies, I am poised to deliver high-impact solutions as a Full Stack Software Engineer. My hands-on experience in creating responsive and user-friendly interfaces, combined with a strategic mindset for optimizing server-side functionalities, empowers me to drive efficiency and innovation. I am eager to bring my adaptability and dedication to problem-solving to contribute meaningfully to your team and help elevate your projects to new heights.
 
+Tech Stack:
+-JavaScript, ES6, HTML5, CSS3, BEM, React, npm, Node.js, Express.js, MongoDB, Git, Webpack, Babel, Figma, SQL, Python, C++, Data Modeling, Database Design, Data Structures, and Object Oriented Programming
+
 - 🌱 I am currently 20 years old (2023) and want a job!
 - 🔭 I’m currently creating a website for family auto parts business.
 - 🌱 I wish to partake in outsourcing projects
